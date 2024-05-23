@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Boris Penkov</h1>
-<h3 align="center">A passionate full-stack (leaning more towards back-end) developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boreauxx&label=Profile%20views&color=0e75b6&style=flat" alt="boreauxx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boreauxx" alt="boreauxx" /></a> </p>
+<h3 align="center">A passionate developer. Since kid I was always pondering how do computers works so when I grew up and finally had the change to learn I did not hesitate. I started coding at the age of 21 and it quickly became my biggest hobie. Nowadays I try to join public projects and learn new things, also I am a student at SoftUni.</h3>
 
 - 🔭 I’m currently working on **Fitness**
 
+- 🌱 I’m currently learning **WorkOS, GoogleCloud, AssemblyAI, JWT**
+
+- 💬 Ask me about **Java, Spring Boot, Spring Security**
+
+- 📫 How to reach me **boris.penkov@abv.bg**
+
+- ⚡ Fun fact **I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/youngblondedonx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youngblondedonx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boreauxx&show_icons=true&locale=en&layout=compact" alt="boreauxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boreauxx&show_icons=true&locale=en" alt="boreauxx" /></p>
+
