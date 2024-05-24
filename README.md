@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Boris Penkov</h1>
 <h3 align="center">A passionate developer. Since kid I was always pondering how do computers works so when I grew up and finally had the change to learn I did not hesitate. I started coding at the age of 21 and it quickly became my biggest hobie. Nowadays I try to join public projects and learn new things, also I am a student at SoftUni.</h3>
 
-- 🔭 I’m currently working on **Fitness**
+- 🔭 I’m currently working on: **Fitness application for storing programs and managing macronutrients**
 
-- 🌱 I’m currently learning **WorkOS, GoogleCloud, AssemblyAI, JWT**
+- 🌱 I’m currently learning: **WorkOS, GoogleCloud, AssemblyAI, JWT**
 
-- 💬 Ask me about **Java, Spring Boot, Spring Security**
+- 💬 Ask me about: **Java, Spring Boot, Spring Security**
 
-- 📫 How to reach me **boris.penkov@abv.bg**
+- 📫 How to reach me: **boris.penkov@abv.bg**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **race car backwards is race car**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
