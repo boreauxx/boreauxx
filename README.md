@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **boris.penkov@abv.bg**
 
-- ⚡ Fun fact **race car backwards is race car**
+- ⚡ (https://github.com/boreauxx/boreauxx/blob/main/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
