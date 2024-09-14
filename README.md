@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Internship project about building a transcription application**
 
-- 🌱 I’m currently learning: **WorkOS, GoogleCloud, AssemblyAI**
+- 🌱 I’m currently learning: **Spring Framework, Hibernate, JPA API**
 
 - 💬 Ask me about: **Java, Spring Framework (Boot, Security, Web)**
 
