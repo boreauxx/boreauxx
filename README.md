@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **Java, Spring Framework (Boot, Security, Web)**
 
-- 📫 How to reach me: **boris.penkov@abv.bg**
+- 📫 How to reach me: **boreauxx@gmail.com**
 
 - ⚡ [More details here](https://github.com/boreauxx/boreauxx/blob/main/resume.pdf)
 
