@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **boreauxx@gmail.com**
 
-- ⚡ [More details here](https://github.com/boreauxx/boreauxx/blob/main/resume.pdf)
+- ⚡ [More details here](https://github.com/boreauxx/boreauxx/blob/main/resume.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
