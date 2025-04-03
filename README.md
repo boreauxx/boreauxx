@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Boris Penkov</h1>
-<h3 align="center">A passionate developer. Since kid I was always pondering how do computers works so when I grew up and finally had the change to learn I did not hesitate. I started coding at the age of 21 and it quickly became my biggest hobie. Nowadays I try to join public projects and learn new things, also I am a student at SoftUni.</h3>
+<h3 align="center">A passionate developer.</h3>
 
-- 🔭 I’m currently working on: **Internship project about building a transcription application**
+- 🔭 I’m currently working on: **Internal ERP system**
 
-- 🌱 I’m currently learning: **Spring Framework, Hibernate, JPA API**
-
-- 💬 Ask me about: **Java, Spring Framework (Boot, Security, Web)**
+- 💬 Ask me about: **Java, Spring Framework, Hibernate, Vaadin**
 
 - 📫 How to reach me: **boreauxx@gmail.com**
-
-- ⚡ [More details here](https://github.com/boreauxx/boreauxx/blob/main/resume.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
