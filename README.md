@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boris Penkov</h1>
 <h3 align="center">A passionate developer.</h3>
 
-- 🔭 I’m currently working on: **Internal ERP system**
+- 🔭 I’m currently working on: **Cloud Platform For Multiple Devices Management**
 
-- 💬 Ask me about: **Java, Spring Framework, Hibernate, Vaadin**
+- 💬 Tech stack: **Java, Golang**
 
 - 📫 How to reach me: **boreauxx@gmail.com**
 
