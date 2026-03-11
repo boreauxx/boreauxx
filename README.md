@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boris Penkov</h1>
 <h3 align="center">A passionate developer.</h3>
 
-- 🔭 I’m currently working on: **Cloud Platform For Multiple Devices Management**
+- 🔭 I’m currently working on: **Cloud platform for managing multiple IoT devices**
 
-- 💬 Tech stack: **Java, Golang**
+- 💬 Tech stack: **Golang**
 
 - 📫 How to reach me: **boreauxx@gmail.com**
 
